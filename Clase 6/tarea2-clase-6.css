@@ -1,0 +1,31 @@
+button {
+    margin: 5px;
+}
+
+#formulario-container{
+    width: 130px;
+    display: flex;
+    flex-direction: column;
+    margin: 3px;
+    
+}
+#contenedor-resultado{
+    width: 180px;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(173, 190, 215);
+}
+
+.label-style{
+    margin:3px;
+}
+
+.input-style{
+    margin: 3px;
+}
+#cantidad-integrantes{
+    width: 180px;
+    display: flex;
+    flex-direction: column;
+    margin: 3px; 
+}
